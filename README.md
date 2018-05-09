@@ -1,6 +1,7 @@
 # jenkins-practice
 
 > A Vue.js project
+I'm handsome guy. hohoho
 
 ## Build Setup
 
