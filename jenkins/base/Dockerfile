@@ -11,7 +11,7 @@ RUN apt-get install -y nodejs
 ARG CACHE_BUILD
 
 # repository clone, install dependencies, build
-RUN git clone https://github.com/sungjunyoung/jenkins-practice.git
+RUN git clone https://github.com/jinuman/jenkins-practice.git
 RUN cd jenkins-practice && npm install && node build/build.js
 
 # nginx host
